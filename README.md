@@ -1,4 +1,5 @@
-![image](https://github.com/kiven9999/Webapp/assets/158525637/f9c91d88-3459-4818-ab4e-8129922c6ff6)
+![image](https://github.com/kiven9999/Webapp/assets/158525637/f6a4ab60-5467-4d1a-b0d1-5f44bc893afa)
+
 
 # AWS Web Application Deployment with Terraform
 
